@@ -36,22 +36,22 @@ set_combination() {
             update_config "fff" "terabot" "archimajor" "false" "true"
             ;;
         4)
-            update_config "fgf" "regular" "archimajor" "false" "false"
+            update_config "fgf" "regular" "archimajor" "false" "true"
             ;;
         5)
-            update_config "fgf" "xlt" "archimajor" "false" "false"
+            update_config "fgf" "xlt" "archimajor" "false" "true"
             ;;
         6)
-            update_config "fgf" "terabot" "archimajor" "false" "false"
+            update_config "fgf" "terabot" "archimajor" "false" "true"
             ;;
         7)
-            update_config "fgf" "regular" "archimajor" "true" "false"
+            update_config "fgf" "regular" "archimajor" "true" "true"
             ;;
         8)
-            update_config "fgf" "xlt" "archimajor" "true" "false"
+            update_config "fgf" "xlt" "archimajor" "true" "true"
             ;;
         9)
-            update_config "fgf" "terabot" "archimajor" "true" "false"
+            update_config "fgf" "terabot" "archimajor" "true" "true"
             ;;
         # Add more combinations as needed
         *)
