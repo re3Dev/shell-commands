@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 
 # Define variables
 home=/home/pi
